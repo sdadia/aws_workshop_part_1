@@ -1,6 +1,6 @@
 # AWS Workshop
 
-There are 2 parts for this workshop. Part 1 is introduction and basic setup. Part 2 is creating a real time streaming platform.
+There are 2 parts for this workshop. Part 1 is introduction and basic setup. [Part 2](https://github.com/sdadia/automating_e_commerce) is creating a real time streaming platform.
 
 ## Prerequisites
 
